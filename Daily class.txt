@@ -1,0 +1,7 @@
+Things we have learned(27/10/2026):
+1.Features of python.
+2.Types of operators.
+3.Print function,Type function.
+4.Execution of a code inside a cell using control+enter.
+5.Print function by changing END argument.
+6.Patterns.
